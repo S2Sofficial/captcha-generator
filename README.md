@@ -1,4 +1,5 @@
 # CAPTCHA Generator
+![image](https://raw.githubusercontent.com/S2Sofficial/captcha-generator/main/refresh.png)
 CAPTCHA Generator Project using Python 
 A simple image captcha generator
 
