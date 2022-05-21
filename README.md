@@ -3,6 +3,8 @@
 CAPTCHA Generator Project using Python 
 A simple image captcha generator
 
+## Link
+https://s2sofficial.github.io/captcha-generator/
 ### Prerequisites
 1. Install the dependencies by executing the following command if needed:
       - ```pip install tk```
